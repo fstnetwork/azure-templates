@@ -178,7 +178,7 @@
           "value": ""
         },
         "minerNodeArguments": {
-          "value": "--targetgaslimit 8000000"
+          "value": "--targetgaslimit 50000000"
         }
       }
     }
